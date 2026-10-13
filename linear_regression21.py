@@ -13,3 +13,18 @@ if not file_path.exists():
     raise FileNotFoundError(
         "dataset_21.csv must be in the same folder as this program."
     )
+
+data = pd.read_csv(file_path)
+
+target = "Goal Difference"
+
+predictors = [
+    "fifa_rank_diff",
+    "Elo_rank_diff",
+    "Qualifying_gd_gap",
+    "marketVal_diff",
+    "Rest_days_diff",
+    "goal_diff_history",
+    "avg_age_diff",
+    "squad_caps_diff"
+]
