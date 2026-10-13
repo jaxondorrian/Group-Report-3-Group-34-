@@ -21,3 +21,14 @@ predictors = [
     "avg_age_diff",
     "squad_caps_diff"
 ]
+
+model_data = data[[target] + predictors].apply(
+    pd.to_numeric, errors="coerce"
+).replace([np.inf, -np.inf], np.nan).dropna()
+X = model_data[predictors]
+y = model_data[target]
+model = LinearRegression()
+
+print(f"\nMatch rows: {len(model_data)}")
+print(f"target: {target}")
+print(f"explanatory variables: {len(predictors)}")
