@@ -32,3 +32,29 @@ model = LinearRegression()
 print(f"\nMatch rows: {len(model_data)}")
 print(f"target: {target}")
 print(f"explanatory variables: {len(predictors)}")
+
+cv = KFold(n_splits=5, shuffle=True, random_state=42)
+predictions = cross_val_predict(model, X, y, cv=cv)
+
+mae = mean_absolute_error(y, predictions)
+rmse = np.sqrt(mean_squared_error(y, predictions))
+r2 = r2_score(y, predictions)
+
+model.fit(X, y)
+
+formula = f"predicted diffrence = {model.intercept_:.4f}"
+
+for name, coefficient in zip(predictors, model.coef_):
+    sign = "+" if coefficient >= 0 else "-"
+    formula += f" {sign} {abs(coefficient):.4f} * {name}"
+
+print(formula)
+
+coefficients = pd.DataFrame({
+    "Variable": predictors,
+    "Coeficient": model.coef_
+})
+
+print(f"MAE: {mae:.4f}")
+print(f"RMSE: {rmse:.4f}")
+print(f"R-squared: {r2:.4f}")
