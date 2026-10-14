@@ -1,3 +1,5 @@
+#lectueres make sure python -m pip install pandas numpy scikit-learn has been install or it may not work
+
 import pandas as pd
 import numpy as np
 from pathlib import Path
