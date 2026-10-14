@@ -1,0 +1,105 @@
+﻿match_id,Team A,Team B,Goal Difference,fifa_rank_diff,Elo_rank_diff,Qualifying_gd_gap,marketVal_diff,Rest_days_diff,goal_diff_history,avg_age_diff,squad_caps_diff
+1,Mexico,South Africa,2,46,53,-0.6,142.6,0,7,-1.5,28
+2,Korea Republic,Czechia,1,15,11,0.05,-49.1,0,-3,2.3,9
+3,Canada,Bosnia-Herz,0,34,35,-1.25,52.3,0,0,1.3,13.7
+4,USA,Paraguay,3,24,13,-0.2,231.9,0,8,-4.9,10.5
+5,Qatar,Switzreland,0,37,80,-1.5,-312.6,0,1,2.2,11.3
+6,Brazil,Morocco,0,1,14,-2.2,480.5,0,4,-0.7,8.4
+7,Australia,Turkey,2,5,15,0.1,-396.2,0,-1,-0.9,-9.1
+8,Haiti,Scotland,1,41,49,-0.5,-114.4,0,-1,-0.3,-13.4
+9,Germany,Curacao,6,72,75,0.5,921.2,0,6,-1.5,8.7
+10,Netherlands,Japan,0,10,8,0.1,483.3,0,4,0.1,2.5
+11,Cote d'Ivoire,Ecuador,1,10,50,2,153.4,0,1,-1.4,-2.6
+12,Sweden,Tunisia,4,7,8,-2.2,336.1,0,5,-0.7,2.4
+13,Belgium,Egypt,0,20,41,0.95,431,0,-3,-1.7,10.2
+14,Spain,Cabo Verde,0,65,72,2.3,1170.7,0,0,-2.6,-3.1
+15,Saudi Arabia,Uruguay,0,45,51,0,-318.6,0,0,1.1,-0.2
+16,IR Iran,New Zealand,0,65,33,1.1,-2.4,0,3,2.7,13.3
+17,France,Senegal,2,12,21,0.1,1041.9,0,1,0.2,-8
+18,Iraq,Norway,3,26,57,-3.5,-568.7,0,-3,-0.7,1
+19,Argentina,Algeria,3,27,31,-0.5,550.6,0,4,1.1,18.2
+20,Austria,Jordan,2,40,24,1.45,224.9,0,2,-1.2,-2.3
+21,Portugal,Congo DR,0,41,47,1.2,866.1,0,0,-0.5,14
+22,England,Croatia,2,7,6,0,972.7,0,18,-2.6,-14.3
+23,Ghana,Panama,1,39,44,0.9,208.9,0,1,-0.4,-37.7
+24,Uzbekistan,Colombia,2,37,32,0.2,-217.1,0,-2,-1,-8
+25,Czechia,South Africa,0,20,35,0.65,138.9,0,0,-1,9.1
+26,Switzerland,Bosnia-Herz,3,45,56,0.75,186.1,-1,1,1.9,20.6
+27,Canada,Qatar,6,26,68,-0.5,178.8,1,8,-2.8,-18.2
+28,Mexico,Korea Republic,1,11,7,-1.3,52.8,0,14,-2.8,9.9
+29,USA,Australia,2,10,5,-2.25,308.1,1,4,-3,8.2
+30,Scotland,Morocco,1,35,7,-1.5,-277.4,0,-4,0.8,10.6
+31,Turkey,Paraguay,1,19,7,0.6,320,-1,-1,-1,10.8
+32,Brazil,Haiti,3,77,70,-0.2,872.3,0,19,-1.2,11.2
+33,Netherlands,Sweden,4,30,45,2.8,348.1,0,1,0.8,13.2
+34,Germany,Cote d'Ivoire,1,23,47,-0.4,424.9,0,1,1.4,5.4
+35,Ecuador,Curacao,0,59,78,-1.1,342.9,0,0,-1.5,5.9
+36,Tunisia,Japan,4,27,45,-0.5,-200.9,0,-9,0,-8.3
+37,Spain,Saudi Arabia,4,59,64,2.6,1179.3,0,11,-3,-7.1
+38,Belgium,IR Iran,0,11,15,1.65,515.4,0,0,-3.4,-3.3
+39,Uruguay,Cabo Verde,0,51,59,0.4,310,0,0,-0.7,4.2
+40,New Zealand,Egypt,2,56,7,-1.8,-82,0,-4,-1,0.2
+41,Argentina,Austria,2,23,21,-1.15,562.3,0,6,0.2,9.6
+42,France,Iraq,3,54,65,1.5,1498.8,0,3,-0.4,-1
+43,Norway,Senegal,1,16,13,2.1,111.8,0,0,1.3,-8
+44,Jordan,Algeria,1,36,14,-0.8,-236.6,0,-6,2.1,10.9
+45,Portugal,Uzbekistan,5,45,30,1.4,924.7,0,5,2.6,12.6
+46,England,Ghana,0,69,76,1.05,1125.5,0,0,0.2,8.8
+47,Panama,Croatia,1,23,26,-1.95,-352.7,0,-1,-2.4,14.6
+48,Colombia,Congo DR,1,33,49,-0.4,158.5,0,1,-2.1,9.4
+49,Switzerland,Canada,1,11,12,2,133.8,0,1,0.6,6.9
+50,Bosnia-Herz,Qatar,3,8,24,0.75,126.5,0,2,-4.1,-31.9
+51,Scotland,Brazil,3,36,21,0.7,-757.9,0,-8,1.5,2.2
+52,Morocco,Haiti,2,76,56,2,391.8,0,2,-0.5,2.8
+53,South Africa,Korea Republic,1,35,46,-0.7,-89.8,0,1,-1.3,-18.1
+54,Czechia,Mexico,3,26,18,1.25,-3.7,0,-3,0.5,-18.9
+55,Curacao,Cote d'Ivoire,2,49,28,-0.9,-496.3,0,-2,2.9,-3.3
+56,Ecuador,Germany,1,13,3,-1.6,-578.3,0,-2,0,-2.8
+57,Tunisia,Netherlands,2,37,53,-0.6,-684.2,0,-2,-0.1,-10.8
+58,Japan,Sweden,0,20,37,2.7,-135.2,0,0,0.7,10.7
+59,Turkey,USA,1,5,20,0.8,88.1,0,2,3.9,0.3
+60,Paraguay,Australia,0,14,8,-0.7,76.2,0,0,1.9,-1.7
+61,Norway,France,3,28,8,2,-930.1,0,-7,1.1,0
+62,Senegal,Iraq,5,42,44,1.4,456.9,0,5,-0.6,7
+63,Uruguay,Spain,1,14,13,-2.6,-860.7,0,-2,1.9,7.3
+64,Cabo Verde,Saudi Arabia,0,6,8,0.3,8.6,0,0,-0.4,-4
+65,Egypt,IR Iran,0,9,26,0.7,84.4,0,0,-1.7,-13.5
+66,New Zealand,Belguim,4,76,48,-2.75,-513,0,-4,0.7,-10
+67,Croatia,Ghana,1,62,70,1.05,152.8,0,1,2.8,23.1
+68,Panama,England,2,30,32,-1.95,-1325.4,0,-7,0.2,28.9
+69,Congo DR,Uzbekistan,2,16,17,0.2,58.6,0,2,3.1,-1.4
+70,Colombia,Portugal,0,8,2,-1.6,-707.6,0,0,-1.6,-4.6
+71,Jordan,Argentina,2,63,45,-0.3,-787.2,0,-2,1,-7.3
+72,Algeria,Austria,0,4,10,-0.65,11.7,0,-2,-0.9,-8.6
+73,South Africa,Canada,1,30,49,0.6,-149.4,0,-1,0.7,-17.9
+74,Brazil,Japan,1,12,10,-2.4,657.3,1,13,-1.3,4.6
+75,Germany,Paraguay,0,31,10,1.9,793.3,0,1,-2,5.9
+76,Netherlands,Morocco,0,1,12,0.3,306.5,-1,2,0.7,6.3
+77,Cote d'Ivoire,Norway,1,2,48,-1.5,-67.8,1,-1,2.4,-3.8
+78,France,Sweden,3,35,50,2,1113.9,-1,5,0,10.9
+79,Mexico,Ecuador,2,9,12,-0.5,-176.8,1,5,-0.1,17.1
+80,England,Congo DR,1,42,50,1.85,1216.1,0,1,-2,-0.3
+81,Belgium,Senegal,1,6,5,0.85,69.4,0,1,0.7,2.9
+82,USA,Bosnia-Herz,2,47,34,-1.25,239.2,-1,3,-2.3,14.1
+83,Spain,Austria,3,22,22,0.85,974.8,1,6,-0.3,-10
+84,Portugal,Croatia,1,6,3,-0.65,622.7,0,6,-1.1,0
+85,Switzerland,Algeria,2,9,20,0.4,75.6,3,2,1.5,13.6
+86,Australia,Egypt,0,2,30,-0.9,-39,1,0,-2,-3.3
+87,Argentina,Cabo Verde,1,66,71,0.3,758.2,-1,1,-2.1,16.5
+88,Colombia,Ghana,1,60,75,1.2,67.9,0,1,0.1,18.5
+89,Canada,Morocco,3,23,5,-2.5,-249,1,-8,0.7,9.8
+90,Paraguay,France,1,38,19,-1.8,-1366.3,1,-11,2.1,-4.3
+91,Brazil,Norway,1,25,5,-3.7,338.3,1,-2,-1.7,4.4
+92,Mexico,England,1,10,17,-2.75,-1168.1,1,-3,-0.1,16.4
+93,Portugal,Spain,1,3,6,-1,-210,0,-2,1.1,16.1
+94,USA,Belgium,3,8,16,-2.75,-161.9,0,-4,-3.3,-4.7
+95,Argentina,Egypt,1,28,58,-0.7,691,0,1,-1.2,16.6
+96,Switzerland,Colombia,0,6,8,1.5,30.1,1,-2,1.4,3.5
+97,France,Morocco,2,3,17,-0.5,1072.3,0,4,-0.1,4
+98,Spain,Belgium,1,7,18,0.35,672.5,0,14,0,-13.2
+99,Norway,England,1,27,7,1.25,-770.1,0,-2,1,0.5
+100,Argentina,Switzreland,2,18,11,-0.9,475,0,5,-0.4,4.6
+101,France,Spain,2,1,2,-1.1,300,1,-4,-0.5,3.3
+102,England,Argentina,1,3,2,1.65,552.5,0,2,-0.9,-17.8
+103,France ,England,2,1,1,-0.75,160,1,-5,-0.1,0.5
+104,Spain,Argentina,1,1,1,2,412.5,1,5,-0.5,-19.6
